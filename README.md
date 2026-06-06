@@ -71,7 +71,7 @@ The dataset contains information about Netflix Movies and TV Shows, including:
 ![Movies vs TV Shows](Screenshots/Movies%20vs%20TV%20Shows.png)
 
 ### Content Rating Distribution
-![Content Rating Distribution](Screenshots/Content%20Rating%20Distribution.png)
+https://github.com/bhivanshushrivastava/Netflix-SQL-Data-Analysis-Project/blob/3296d684c09be4974abd20d6449f8934ca3812e3/Content%20Rating%20Distribution.png
 
 
 ## Top 5 Countries by Content
