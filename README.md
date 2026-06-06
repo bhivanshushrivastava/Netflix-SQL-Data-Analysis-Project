@@ -1,11 +1,11 @@
-# 📊 Netflix SQL Data Analysis Project
+# Netflix SQL Data Analysis Project
 
-## 📝 Overview
+## Overview
 This project explores Netflix's content library using SQL. The analysis focuses on content distribution, ratings, countries, genres, directors, and release trends to uncover meaningful business insights from Netflix data.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Analyze Movies and TV Shows distribution
 - Identify the most common content ratings
 - Find top content-producing countries
@@ -15,12 +15,12 @@ This project explores Netflix's content library using SQL. The analysis focuses 
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 - SQL (MySQL)
 
 ---
 
-## 📂 Dataset
+## Dataset
 The dataset contains information about Netflix Movies and TV Shows, including:
 - Title
 - Type
@@ -33,7 +33,7 @@ The dataset contains information about Netflix Movies and TV Shows, including:
 
 ---
 
-## 🔍 SQL Analysis Performed
+## SQL Analysis Performed
 
 1. Distribution of Movies and TV Shows
 2. Most common content ratings
@@ -53,7 +53,7 @@ The dataset contains information about Netflix Movies and TV Shows, including:
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 - Movies account for nearly 70% of Netflix content.
 - TV Shows contribute approximately 30% of the catalog.
@@ -65,7 +65,7 @@ The dataset contains information about Netflix Movies and TV Shows, including:
 
 ---
 
-## 📊 Project Visuals
+## Project Visuals
 
 ### Movies vs TV Shows
 https://github.com/bhivanshushrivastava/Netflix-SQL-Data-Analysis-Project/blob/b6fb6e4470adfcc48b0103e23d206a2d31d7ccc4/Movies%20vs%20TV%20Shows.png
@@ -82,7 +82,7 @@ https://github.com/bhivanshushrivastava/Netflix-SQL-Data-Analysis-Project/blob/5
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 Netflix-SQL-Project/
 
