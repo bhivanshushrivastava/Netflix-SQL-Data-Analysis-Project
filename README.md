@@ -1,79 +1,118 @@
-📊 Netflix SQL Data Analysis Project
+# 📊 Netflix SQL Data Analysis Project
 
-📌 Project Overview
+## 📝 Overview
+This project explores Netflix's content library using SQL. The analysis focuses on content distribution, ratings, countries, genres, directors, and release trends to uncover meaningful business insights from Netflix data.
 
-This project analyzes Netflix's content library using SQL to uncover valuable insights about movies, TV shows, ratings, genres, countries, directors, and content growth trends. The analysis was performed using SQL queries, and the findings were visualized through charts and reports.
+---
 
-🎯 Objectives
-Analyze the distribution of Movies and TV Shows.
-Identify the most common content ratings.
-Discover top content-producing countries.
-Analyze Netflix content growth over time.
-Find popular genres and top directors.
-Explore content addition patterns and release trends.
-🛠️ Tools & Technologies
-SQL (MySQL)
-Data Visualization
+## 🎯 Objectives
+- Analyze Movies and TV Shows distribution
+- Identify the most common content ratings
+- Find top content-producing countries
+- Explore content growth over time
+- Discover popular genres and directors
+- Analyze content addition patterns
 
-📂 Dataset
+---
 
-Netflix Titles Dataset containing information about:
+## 🛠️ Tools Used
+- SQL (MySQL)
 
-Movies & TV Shows
-Directors & Cast
-Countries
-Ratings
-Genres
-Release Years
-Date Added
-🔍 Business Questions Solved
-Distribution of Movies and TV Shows.
-Most frequent content ratings.
-Top countries contributing content.
-Content production trends over time.
-Top directors on Netflix.
-Year-wise content additions.
-Most popular genres.
-Netflix content from India.
-Percentage share of Movies vs TV Shows.
-Movies longer than 120 minutes.
-TV Shows with more than 3 seasons.
-Months with highest content additions.
-Latest content available.
-Top release years by content volume.
-Country-wise content ranking.
-📈 Key Insights
-Movies dominate Netflix's catalog, accounting for approximately 70% of total content.
-TV Shows represent around 30% of the platform's content library.
-TV-MA is the most common content rating, indicating a strong focus on mature audiences.
-The United States contributes the highest amount of Netflix content, followed by India and the United Kingdom.
-Content additions increased significantly after 2015 as Netflix expanded globally.
-Drama and International Movies are among the most popular genres.
-Recent years account for a large share of Netflix releases, showing continuous content growth.
-📊 Project Visuals
-Movies vs TV Shows Distribution
+---
 
-Content Rating Distribution
+## 📂 Dataset
+The dataset contains information about Netflix Movies and TV Shows, including:
+- Title
+- Type
+- Director
+- Country
+- Rating
+- Genre
+- Release Year
+- Date Added
 
-📁 Project Structure
+---
+
+## 🔍 SQL Analysis Performed
+
+1. Distribution of Movies and TV Shows
+2. Most common content ratings
+3. Top content-producing countries
+4. Content growth by release year
+5. Top directors on Netflix
+6. Year-wise content additions
+7. Most popular genres
+8. Netflix content from India
+9. Percentage of Movies vs TV Shows
+10. Movies longer than 120 minutes
+11. TV Shows with more than 3 seasons
+12. Months with highest content additions
+13. Latest content available
+14. Top release years
+15. Country-wise content ranking
+
+---
+
+## 📈 Key Insights
+
+- Movies account for nearly 70% of Netflix content.
+- TV Shows contribute approximately 30% of the catalog.
+- TV-MA is the most common content rating.
+- The United States is the largest content contributor.
+- Netflix content grew rapidly after 2015.
+- Drama and International Movies are among the most popular genres.
+- Recent releases form a major portion of the catalog.
+
+---
+
+## 📊 Project Visuals
+
+### Movies vs TV Shows
+![Movies vs TV Shows](Screenshots/Movies%20vs%20TV%20Shows.png)
+
+### Content Rating Distribution
+![Content Rating Distribution](Screenshots/Content%20Rating%20Distribution.png)
+
+
+## Top 5 Countries by Content
+
+
+
+
+
+---
+
+## 📁 Project Structure
+
 Netflix-SQL-Project/
 
 Dataset/
-   -- netflix_titles.csv
+
+netflix_titles.csv
 
 SQL Queries/
-  -- Netflix_SQL_Project.sql
+
+Netflix_SQL_Project.sql
 
 Screenshots/
-   -- Movies vs TV Shows.png
-   -- Content Rating Distribution.png
-   -- Top 5 Countries by Content.png
+
+Movies vs TV Shows.png
+
+Content Rating Distribution.png
+
+Top 5 Countries by Content.png
 
 Reports/
-   -- Netflix SQL Project INSIGHTS.pdf
-   -- Netflix SQL Project solutions.pdf
 
-   --  README.md
-🚀 Conclusion
+Netflix SQL Project INSIGHTS.pdf
 
-This project demonstrates SQL skills including data exploration, filtering, aggregation, grouping, ranking, date functions, and analytical problem-solving while extracting actionable insights from Netflix content data.
+Netflix SQL Project solutions.pdf
+
+README.md
+
+---
+
+## 🚀 Conclusion
+
+This project demonstrates SQL skills such as data exploration, filtering, aggregation, grouping, ranking, date functions, and business insight generation using a real-world Netflix dataset.
+
