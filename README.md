@@ -68,7 +68,7 @@ The dataset contains information about Netflix Movies and TV Shows, including:
 ## 📊 Project Visuals
 
 ### Movies vs TV Shows
-![Movies vs TV Shows](Screenshots/Movies%20vs%20TV%20Shows.png)
+https://github.com/bhivanshushrivastava/Netflix-SQL-Data-Analysis-Project/blob/b6fb6e4470adfcc48b0103e23d206a2d31d7ccc4/Movies%20vs%20TV%20Shows.png
 
 ### Content Rating Distribution
 https://github.com/bhivanshushrivastava/Netflix-SQL-Data-Analysis-Project/blob/3296d684c09be4974abd20d6449f8934ca3812e3/Content%20Rating%20Distribution.png
