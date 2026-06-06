@@ -112,7 +112,7 @@ README.md
 
 ---
 
-## 🚀 Conclusion
+## Conclusion
 
 This project demonstrates SQL skills such as data exploration, filtering, aggregation, grouping, ranking, date functions, and business insight generation using a real-world Netflix dataset.
 
